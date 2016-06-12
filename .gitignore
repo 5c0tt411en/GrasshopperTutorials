@@ -1,0 +1,17 @@
+.DS_Store
+
+*.depend
+*.layout
+*.mode*v3
+*.pbxuser
+*.app*
+*.DS_*
+._*.*
+*.obj
+*.tlog
+*.sdf
+*.pdb
+*.idb
+*.pch
+
+examples/
